@@ -1,0 +1,66 @@
+<speak>  
+       
+<voice name="Matthew">
+        <amazon:domain name="conversational">
+            Alexa, give me some information about Galgotias University?
+        </amazon:domain>
+</voice>
+<amazon:domain name="news">
+            According to wikipedia, Galgotias University is a private university in Greater Noida, Uttar Pradesh, India. It is recognized by the University Grants Commission (UGC).
+        </amazon:domain>
+
+
+ 
+<voice name="Matthew">
+        <amazon:domain name="conversational">
+            Alexa, what is the ranking of Galgotias University in India?
+
+        </amazon:domain>
+</voice>
+<amazon:domain name="news">
+            According to wikipedia, The National Institutional Ranking Framework (NIRF) ranked it 76-100 among pharmacy colleges in 2020. Number 3 ranking in India.
+        </amazon:domain>
+
+
+<voice name="Matthew">
+        <amazon:domain name="conversational">
+            Alexa, what is good about Galgotias University?
+        </amazon:domain>
+</voice>
+<amazon:domain name="news">
+            According to Shiksha.com, Placements: It is one of the best universities in Uttar Pradesh. For placements, it provides a clear, precise and abates placements. Companies definitely hire students if they work hard.
+Infrastructure: Infrastructure is good, and it is developing at its own seen. The only problem is of clean water and network connectivity. There are no air-conditioned facilities as others provide their students with the best facilities in classrooms, but this university doesn't seem to do so.
+Faculty: Teachers are good. They are mainly freshers or newcomers who just begun their teaching career in colleges and universities. They are average as they lack in experience, but they surely connect with us directly. They understand us which is great.
+Other: Our college conducts regular fests, but not every one of them would like to be enjoying much
+
+        </amazon:domain>
+
+
+
+<voice name="Matthew">
+        <amazon:domain name="conversational">
+            Alexa, what is the academic requirement to get admission into the Galgotias University?
+        </amazon:domain>
+</voice>
+<amazon:domain name="news">
+           I have found some information about eligibility on https://www.galgotiasuniversity.edu.in/eligibility.asp
+        </amazon:domain>
+
+<voice name="Matthew">
+        <amazon:domain name="conversational">
+            Alexa, is there on campus accommodation for students?
+        </amazon:domain>
+</voice>
+<amazon:domain name="news">
+            Yes, details about accommodation are at https://www.galgotiasuniversity.edu.in/hostel.asp
+        </amazon:domain>
+
+<voice name="Matthew">
+        <amazon:domain name="conversational">
+            Alexa, give me some information about placement from Galgotias University.
+        </amazon:domain>
+</voice>
+<amazon:domain name="news">
+            University provides placement. You can find the details on the website https://www.galgotiasuniversity.edu.in
+        </amazon:domain>
+</speak>
